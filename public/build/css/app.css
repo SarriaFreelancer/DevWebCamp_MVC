@@ -1727,6 +1727,10 @@ h3 {
   color: #656262;
   background-image: linear-gradient(to left top, #ffffff, white);
 }
+.bloqueG:nth-child(12) {
+  color: #656262;
+  background-image: linear-gradient(to left top, #ffffff, white);
+}
 .bloqueG__heading {
   margin: 1rem 0 2rem 0;
   font-size: 3.6rem;
